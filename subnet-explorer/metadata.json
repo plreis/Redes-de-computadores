@@ -1,0 +1,6 @@
+{
+  "name": "Subnet Explorer",
+  "description": "Calculadora didática de sub-redes IPv4. Mostra cálculos de rede, broadcast, hosts e operações binárias bit a bit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
